@@ -39,6 +39,6 @@ testem.log
 Thumbs.db
 
 # firebase deploy
-.firebase/*
+/.firebase/*
 firebase.json
 .firebaserc
